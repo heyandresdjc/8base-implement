@@ -74,3 +74,4 @@ const PROPERTY_CREATE_MUTATION = gql`
 4. Take a look at `8base.yml` and `src/propertyShare.js`
 5. Deploy server logic using `8base deploy`
 6. Test the feature in the app
+# 8base-implement
